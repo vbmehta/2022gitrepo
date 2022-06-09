@@ -7,7 +7,7 @@ Style
 
 ---
 ## Vaibhav Mehta (VB)
-#### Senior Technical Consultant 123
+#### Senior Technical Consultant
 
 
 ![bg left:50%](/Users/Vaibhav.Mehta@computacenter.com/Documents/2022/vb.jpg)
