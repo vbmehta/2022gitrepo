@@ -10,7 +10,7 @@ Style
 #### Senior Technical Consultant
 
 
-![bg left:50%](/Users/Vaibhav.Mehta@computacenter.com/Documents/2022/vb.jpg)
+![bg left:50%](vb.jpg)
 ----
 -----
 # About Me
